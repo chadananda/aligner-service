@@ -13,6 +13,8 @@ https://github.com/kylebgorman/Prosodylab-Aligner
 
 https://www.dropbox.com/sh/sj3c3eqq6b4odza/nT1nfT6tx0
 
+https://www.youtube.com/channel/UCP_MVq3wkUm3F52wPRneX_A
+
 But all that command line Python stuff is still too local and messy. I want it wrapped with a nice clean REST API -- so that we can pass in and receive back JSON objects over the network. We'll probably be running it on a Mac desktop somewhere. We think it will be easiest to just use Node/Express to wrap the Python wrapper. But you take a look and decide if it would be easier to just wrap HTK directly.
 
 ### Note: 
